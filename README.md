@@ -22,8 +22,18 @@ GalleryProMax is a production-ready gallery application designed for efficient i
 ## How to Get Started
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/111akash/gallerypromax.git
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Set up environment variables for Postgres, Sentry, Posthog, and Upstash.
+4. Start the app locally:
+   ```
+   npm run dev
+   ```
 
 
 
